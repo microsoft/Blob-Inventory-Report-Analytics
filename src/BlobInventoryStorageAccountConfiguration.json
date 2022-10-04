@@ -1,0 +1,6 @@
+{
+    "storageAccountName":"<placeholder>",
+    "destinationContainer":"<placeholder>",
+    "blobInventoryRuleName":"<placeholder>",
+    "accessKey":"<placeholder>"
+}
